@@ -1,0 +1,13 @@
+body{margin: auto;
+    overflow: hidden;}
+#wrapper{
+    display: block;
+    margin: auto;}
+#canv{
+    display: grid;
+}
+#cell{
+    min-width: 10px;
+    min-height: 10px;
+    background-color: azure;
+}
