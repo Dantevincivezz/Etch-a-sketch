@@ -25,13 +25,13 @@ body {
     font-family: 'Lora', serif;
 }
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 768px) {
     .head{
     font-size: 300%;
 }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     .head{
 
     font-size: 150%;
